@@ -1,0 +1,23 @@
+{
+    "access_allowed": [
+        {
+            "department_name": "",
+            "user_name": []
+        }
+    ],
+    "access_not_allowed": [
+        {
+            "department_name": "",
+            "user_name": [],
+            "error_message": ""
+        }
+    ],
+    "permission_not_found": [
+        {
+            "id": "",
+            "error_message": "Permission ID not found in both list",
+            "department_name": "",
+            "user_name": []
+        }
+    ]
+}
